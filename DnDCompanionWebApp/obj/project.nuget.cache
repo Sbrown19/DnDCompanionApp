@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+pzflDnZQJn/MWeSmCCSkLU8sOqVlqbEFVGjhZeFh6wrx7cEga1Pq/sfyq3MSZ7xh7BSU4bzlc6rjJcmWazSzA==",
+  "dgSpecHash": "AevLsdURN5kEHOJxKxyxUnI+vte/hw60yABjxNuDd36+o9JFaP2HhiaMP9RUzGP4VHtH5gRZVz4vc7l3EpHC/g==",
   "success": true,
-  "projectFilePath": "B:\\Nick\\Documents\\repos\\DnDCompanionWebApp\\DnDCompanionWebApp.csproj",
+  "projectFilePath": "B:\\Nick\\Documents\\DnDCompanionAppRepo\\DnDCompanionWebApp\\DnDCompanionWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nick\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
   ],

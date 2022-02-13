@@ -1,6 +1,6 @@
 ﻿@model LoginModel;
 @{
-    Layout = null;
+    Layout = "_Layout";
 }
 <!DOCTYPE html>
 <html>
@@ -9,13 +9,21 @@
         <title>@ViewBag.Title</title>
     </head>
     <body>
-        <h1>@ViewBag.Description</h1>
+        <header>
+            <h1>@ViewBag.Description</h1>
+        </header>
         <form asp-action="Index" method="post">
+            <div asp-validation-summary="All"></div>
             <div>
                 <label asp-for="UserName">Username:</label>
                 <input asp-for="UserName" />
-
             </div>
+            <div>
+                <label asp-for="Password">Password:</label>
+                <input asp-for="Password" />
+            </div>
+            <button type="submit">Submit</button>
+            <a asp-action="Index">Clear</a>
         </form>
     </body>
 </html>
