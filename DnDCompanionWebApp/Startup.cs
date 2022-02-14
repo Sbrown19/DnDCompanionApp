@@ -50,6 +50,12 @@ namespace DnDCompanionWebApp
 
             app.UseEndpoints(endpoints =>
             {
+                //Route for working within Admin area
+                endpoints.MapAreaControllerRoute(
+                    name: "admin",
+                    areaName: "Admin",
+                    pattern: "Admin/{controller=Home}/{action=Index}/{id?}");
+
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");

@@ -21,11 +21,15 @@ namespace DnDCompanionWebApp.Controllers
         }
         public IActionResult Characters()
         {
-            return Content("Home controller, Characters action");
+            ViewBag.Title = "Characters";
+            ViewBag.Description = "DnD Characters Page";
+            return View();
         }
         public IActionResult DiceRoll()
         {
-            return Content("Home controller, Diceroll action");
+            ViewBag.Title = "DiceRoll";
+            ViewBag.Description = "DnD Dice Roll Page";
+            return View();
         }
     }
 }

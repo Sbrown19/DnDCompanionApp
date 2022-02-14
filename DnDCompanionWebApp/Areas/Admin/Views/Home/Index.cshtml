@@ -1,0 +1,30 @@
+﻿@using DnDCompanionWebApp.Models
+@model LoginModel;
+@{
+    Layout = "_Layout";
+}
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>@ViewBag.Title</title>
+    </head>
+    <body>
+        <header>
+            <h1 class="text-center">@ViewBag.Description</h1>
+        </header>
+        <form asp-action="Index" method="post">
+            <div asp-validation-summary="All"></div>
+            <div class="form-group">
+                <label asp-for="UserName" class="control-label">Username:</label>
+                <input asp-for="UserName" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Password" class="control-label">Password:</label>
+                <input asp-for="Password" class="form-control" />
+            </div>
+            <button type="submit" class="btn-primary">Submit</button>
+            <a asp-action="Index" class="btn-outline-secondary">Clear</a>
+        </form>
+    </body>
+</html>
