@@ -19,12 +19,14 @@ namespace DnDCompanionWebApp.Controllers
         {
             return View(loginResult);
         }
+        [Route("[controller]/[action]/{id?}")]
         public IActionResult Characters()
         {
             ViewBag.Title = "Characters";
             ViewBag.Description = "DnD Characters Page";
             return View();
         }
+        [Route("[controller]/[action]/{id?}")]
         public IActionResult DiceRoll()
         {
             ViewBag.Title = "DiceRoll";
