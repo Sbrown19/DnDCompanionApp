@@ -218,14 +218,11 @@ B:\Nick\Documents\DnDCompanionAppRepo\DnDCompanionWebApp\obj\Release\net5.0\PubT
 B:\Nick\Documents\DnDCompanionAppRepo\DnDCompanionWebApp\obj\Release\net5.0\PubTmp\Out\appsettings.json
 B:\Nick\Documents\DnDCompanionAppRepo\DnDCompanionWebApp\obj\Release\net5.0\PubTmp\Out\libman.json
 B:\Nick\Documents\DnDCompanionAppRepo\DnDCompanionWebApp\obj\Release\net5.0\PubTmp\Out\DnDCompanionWebApp.dll
-B:\Nick\Documents\DnDCompanionAppRepo\DnDCompanionWebApp\obj\Release\net5.0\PubTmp\Out\DnDCompanionWebApp.deps.json
 B:\Nick\Documents\DnDCompanionAppRepo\DnDCompanionWebApp\obj\Release\net5.0\PubTmp\Out\DnDCompanionWebApp.runtimeconfig.json
 B:\Nick\Documents\DnDCompanionAppRepo\DnDCompanionWebApp\obj\Release\net5.0\PubTmp\Out\DnDCompanionWebApp.pdb
-B:\Nick\Documents\DnDCompanionAppRepo\DnDCompanionWebApp\obj\Release\net5.0\PubTmp\Out\Humanizer.dll
 B:\Nick\Documents\DnDCompanionAppRepo\DnDCompanionWebApp\obj\Release\net5.0\PubTmp\Out\Microsoft.Data.SqlClient.dll
 B:\Nick\Documents\DnDCompanionAppRepo\DnDCompanionWebApp\obj\Release\net5.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
 B:\Nick\Documents\DnDCompanionAppRepo\DnDCompanionWebApp\obj\Release\net5.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
-B:\Nick\Documents\DnDCompanionAppRepo\DnDCompanionWebApp\obj\Release\net5.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Design.dll
 B:\Nick\Documents\DnDCompanionAppRepo\DnDCompanionWebApp\obj\Release\net5.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
 B:\Nick\Documents\DnDCompanionAppRepo\DnDCompanionWebApp\obj\Release\net5.0\PubTmp\Out\Microsoft.EntityFrameworkCore.SqlServer.dll
 B:\Nick\Documents\DnDCompanionAppRepo\DnDCompanionWebApp\obj\Release\net5.0\PubTmp\Out\Microsoft.Identity.Client.dll
@@ -253,3 +250,4 @@ B:\Nick\Documents\DnDCompanionAppRepo\DnDCompanionWebApp\obj\Release\net5.0\PubT
 B:\Nick\Documents\DnDCompanionAppRepo\DnDCompanionWebApp\obj\Release\net5.0\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 B:\Nick\Documents\DnDCompanionAppRepo\DnDCompanionWebApp\obj\Release\net5.0\PubTmp\Out\DnDCompanionWebApp.Views.dll
 B:\Nick\Documents\DnDCompanionAppRepo\DnDCompanionWebApp\obj\Release\net5.0\PubTmp\Out\DnDCompanionWebApp.Views.pdb
+B:\Nick\Documents\DnDCompanionAppRepo\DnDCompanionWebApp\obj\Release\net5.0\PubTmp\Out\DnDCompanionWebApp.deps.json

@@ -106,3 +106,4 @@ B:\Nick\Documents\DnDCompanionAppRepo\DnDCompanionWebApp\obj\Debug\net5.0\Razor\
 B:\Nick\Documents\DnDCompanionAppRepo\DnDCompanionWebApp\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
 B:\Nick\Documents\DnDCompanionAppRepo\DnDCompanionWebApp\obj\Debug\net5.0\Razor\Views\Home\Characters.cshtml.g.cs
 B:\Nick\Documents\DnDCompanionAppRepo\DnDCompanionWebApp\obj\Debug\net5.0\Razor\Views\Home\DiceRoll.cshtml.g.cs
+B:\Nick\Documents\DnDCompanionAppRepo\DnDCompanionWebApp\obj\Debug\net5.0\Razor\Views\Shared\Students.cshtml.g.cs
