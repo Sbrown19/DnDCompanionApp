@@ -1,0 +1,32 @@
+﻿
+@model StudentViewModel;
+@{
+    Layout = "_Layout";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+    <h2>@ViewBag.Title</h2>
+
+    <form asp-action="Edit" method="post">
+        <div class="form-group">
+            <label asp-for="AccParam">Access Level</label>
+            <input asp-for="AccParam" class="form-control" />
+        </div>
+        <button type="submit" class="btn btn-primary">@ViewBag.Action</button>
+    </form>
+
+    @if (ViewBag.AccParam > 2 )
+            {
+                <p>You do not have permission to access this data.</p>
+            }
+    else if (ViewBag.AccParam > 2 && ViewBag.AccParam < 8)
+            {
+                    
+            }
+   
+</body>
+</html>
